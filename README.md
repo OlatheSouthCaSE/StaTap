@@ -26,13 +26,7 @@ The main complication was in-app memory management. After a certain time elapsed
 
 The other most notable complication was usability. Due to the hectic nature of a basketball game, it can be very tough to keep track of plays/actions going on e.g. a string of missed shots/rebounds by multiple players of a team in the span of 5-10 seconds. Due to this and the current functionality of our application, operating the application really required two people.
 
-
-
-
-
-
-
-
+<br><br><br><br><br><br>
 #Archived
 *Remaining to-do list has now been archived as the program is no longer in production.*
 
